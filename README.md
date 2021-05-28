@@ -1,5 +1,7 @@
 # Hi, I am Junwei Deng
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=theaperdeng.theaperdeng) ![followers](https://img.shields.io/github/followers/theaperdeng)
+
 🏡 Now I live in Shanghai.<br>
 👨🏽‍💻 I am a Machine Learning Engineer. [@Intel](https://www.intel.com)<br>
 🏫 M.S. in Information. [@Umich](https://www.si.umich.edu/) ; B.S. in Electrical and Computer Engineering. [@SJTU](https://www.sjtu.edu.cn/)<br>
