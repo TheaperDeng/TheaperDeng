@@ -4,6 +4,7 @@
 
 🏡 Now I live in Shanghai.<br>
 👨🏽‍💻 I am a Machine Learning Engineer. [@Intel](https://www.intel.com)<br>
+🚀 I currently work heavily on [Chronos](https://analytics-zoo.readthedocs.io/en/latest/doc/Chronos/Overview/chronos.html) (part of [intel analytics-zoo](https://analytics-zoo.readthedocs.io/en/latest/index.html)), a large-scale time series analysis tool with automl. <br>
 🏫 M.S. in Information. [@Umich](https://www.si.umich.edu/) ; B.S. in Electrical and Computer Engineering. [@SJTU](https://www.sjtu.edu.cn/)<br>
 💡  I am interested in AutoML, ML System, Time Series Analysis and Graph Neural Network. <br>
 
