@@ -7,7 +7,7 @@
 🏫 M.S. in Information <a href="https://umich.edu">@Umich</a>, 2019-2021.<br>
 🏫 B.Eng. in Electrical and Computer Engineering <a href="https://sjtu.edu.cn">@SJTU</a>, 2016-2020..<br>
 💡 I am interested in trustworthy AI, GNN, AI frameworks and performance, time series analysis, scalable ML system, and AutoML.<br>
-ℹ️ More information please refer to my [personal website](https://theaperdeng.github.io/).
+ℹ️ More information please refer to my [personal website](https://theaperdeng.github.io/) and [google scholar](https://scholar.google.com/citations?user=DagyP9QAAAAJ&hl=en&oi=ao).
 
 <p align="left">
 <img alt="TheaperDeng's github stats" height='230' src="https://github-readme-stats.vercel.app/api?username=theaperdeng&show_icons=true&include_all_commits=true">
