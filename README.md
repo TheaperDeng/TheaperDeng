@@ -1,6 +1,6 @@
 # Hi, I am Junwei Deng
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=theaperdeng.theaperdeng) ![followers](https://img.shields.io/github/followers/theaperdeng)
+![followers](https://img.shields.io/github/followers/theaperdeng)
 
 📚️ Ph.D. Student in Information Sciences from 2023 Fall <a href="https://ischool.illinois.edu/">@UIUC</a>.<br>
 👨🏽‍💻 AI Frameworks Engineer <a href="https://www.intel.com">@Intel</a> <a href="https://www.intel.com/content/www/us/en/developer/topic-technology/artificial-intelligence/overview.html">@AI in Intel</a>, 2020-2023.<br>
