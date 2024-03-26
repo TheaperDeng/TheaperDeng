@@ -9,8 +9,6 @@
 💡 I am interested in Trustworth ML, Data-centric Machine Learning and the technical solutions to assist AI policymakers. <br>
 ℹ️ More information please refer to my [personal website](https://theaperdeng.github.io/) and [google scholar](https://scholar.google.com/citations?user=DagyP9QAAAAJ&hl=en&oi=ao).
 
-I am currently seeking research-oriented internship opportunities for the summer of 2024. Please contact me if you have any recruitment openings.
-
 <p align="left">
 <img alt="TheaperDeng's github stats" height='230' src="https://github-readme-stats.vercel.app/api?username=theaperdeng&show_icons=true&include_all_commits=true">
 <img alt="TheaperDeng's github stats" height='230' src="https://github-readme-stats.vercel.app/api/top-langs/?username=theaperdeng">
