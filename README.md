@@ -9,6 +9,8 @@
 💡 I am interested in Data-Centric AI (e.g., data attribution); Trustworthy ML (e.g., robustness, fairness); Developing technical solutions for operationalizing regulatory principles (e.g., copyright issue for generative AI).<br>
 ℹ️ More information please refer to my [personal website](https://theaperdeng.github.io/) and [google scholar](https://scholar.google.com/citations?user=DagyP9QAAAAJ&hl=en&oi=ao).
 
+🔴 **I am actively looking for research&development internship position for summer 2025. Please contact me if you have any information!**
+
 <p align="left">
 <img alt="TheaperDeng's github stats" height='230' src="https://github-readme-stats.vercel.app/api?username=theaperdeng&show_icons=true&include_all_commits=true">
 <img alt="TheaperDeng's github stats" height='230' src="https://github-readme-stats.vercel.app/api/top-langs/?username=theaperdeng">
